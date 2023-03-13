@@ -1,1 +1,1 @@
-0x02 shell I0 redirection and fliters readme file
+0x02 shell redirection and fliters readme file
